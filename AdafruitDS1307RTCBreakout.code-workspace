@@ -6,6 +6,10 @@
 		{
 			"name": "ArduinoUNO",
 			"path": "pio\\ArduinoUNO"
+		},
+		{
+			"name": "Write16x2LCD",
+			"path": "pio\\Arduino\\Write16x2LCD"
 		}
 	],
 	"settings": {}
