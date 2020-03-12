@@ -1,13 +1,9 @@
 //*************************************************************************************************
-// AdafruitDS1307Arduino.ino
+// main.cpp
 // This example demonstrates how to connect and display date/time values from an Adafruit DS1307
 // Real Time Clock (RTC) Breakout board.
 //
 // This is specifically implemented using PlatformIO development environment.
-//
-// REVISIONS
-// 02/29/2020   Bob Mixon
-// Initial module creation and testing.
 //*************************************************************************************************
 
 #include <Arduino.h>
