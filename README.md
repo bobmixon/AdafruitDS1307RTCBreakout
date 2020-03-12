@@ -2,7 +2,6 @@
 This workspace contains various examples of how to use the Adafruit DS1307 RTC breakout board with different micro-controllers and development platforms.
 
 Development Platforms Directory Structure
-
 aide - Arduino IDE
 pio  - PlatformIO
 
