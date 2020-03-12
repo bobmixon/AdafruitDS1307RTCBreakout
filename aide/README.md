@@ -1,5 +1,7 @@
 # Arduino IDE Examples
-The examples in this folder are specifically for the Arduino IDE. If you are looking for examples using PlatformIO, please see the sibling "pio" folder.
+The examples in this folder are specifically for the Arduino IDE. Each sub-folder, such as ArduinoUNO, has the code for working with the Adafruit DS1307 RTC breakout and Arduino UNO.
+
+If you are looking for examples using PlatformIO, please see the sibling [pio](https://github.com/bobmixon/AdafruitDS1307RTCBreakout/tree/master/pio) folder.
 
 # Examples
 ArduinoUNO - Displays DS1307 RTC values in the serial terminal window.
