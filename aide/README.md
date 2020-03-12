@@ -1,4 +1,4 @@
-#Arduino IDE Examples
+##Arduino IDE Examples
 The examples in this folder are specifically for the Arduino IDE. If you are looking for examples using PlatformIO, please see the sibling "pio" folder.
 
 Examples
